@@ -29,4 +29,5 @@ void draw() {
     walkers[i].render();
   }
   
+  //saveFrame("frames/######.tif");
 }

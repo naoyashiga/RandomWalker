@@ -8,5 +8,4 @@ class Circle {
     y = random(0, height);
     r = 100;
   }
-  
 }
